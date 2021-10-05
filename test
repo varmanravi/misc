@@ -1,0 +1,38 @@
+Contribute to Wells Fargo's transformation by doing what's right, doing it well, and leading with an enterprise mindset. Embrace candor - Say what you mean in the moment. -Share clear, honest, direct feedback with your colleagues and mangers. - Be both direct and respectful. Do what's right- Set High standards for being helpful and trustworthy. - If you see a proble, take ownership or get support to make things right. Be great at execution - Make decisions that benefit clients and shareholders in the long term over any single business in the short term. - Use data to make decisions. -Act with a sense of urgency. - Strive to simplify transactions and end-to-end processes. - Measure success based on business results and customer/team satisfaction. Learn and grow- Embrace challenges with enthusiasm. Be tenacious in overcoming obstacles. - Ask others for feedback; dedicate the time and effort to learn and grow. -Take personal accountability for understanding and delivering on your goals and commitments. Champion diversity, equity & inclusion - Contribute to a safe, inclusive environment where differences are respected. - Educate yourself about unconscious bias. - Solicit diversw ideas that challenge your thinking. -Build relationships with customers and colleagues who are different from you. -Actively help each other succeed. Build high-performing teams(for managers) - Set clear performance objectives, - Provide ongoing, actionable coaching and feedback. - Reward successful execution. - Hold people accountable. -Encourage community involvement through your words and actions. - Solicit input from your team and take action on feedback and concerns.
+
+SRE tools Development
+
+Develop SRE central and deliver the minimum viable product. MVP-1 - Design Develop and deploy the portal to digitalize the maturity model to capture the SRE journey of the products across TI. It should provide self-servicing capabilities to help the teams in their SRE transformation journey. MVP 2 - Design Develop and deploy Service Status component to provide easy communication and near real time availability of all the applications and systems. Develop the self-servicing capability to define and publish thier SLI, SLO, availability and the error budget.
+
+SRE transformation
+
+Enable one product team on SRE transformation journey by taking up the maturity assesment to baseline and improve the SRE outcomes. Measurement - Pick up one or few of the SRE outcomes and improve the baseline from foundation to disciplined and mature. For ex: Ownership on establishing the SLI's baseline and target SLO's, standardize the telemetry strategy and progress towards 99.99% availability.
+
+Eliminate Toil and ticket reduction
+
+Automate critical TOIL use cases that has an impact on Operate and availability SRE outcomes resulting in ticket reduction. Measurement -10% ticket reduction
+
+
+
+As part of problem ticket reduction effort, Started working with Operate team to automate the TOOL use cases (service restart, patching, integrate automation runbook with Netcool)
+
+1. Exported Site scope alerts for StealthWatch application and analysed data, identified the false alerts to achieve the ticket reduction.
+
+2. Onboarded A& E(4 apps) and  Network applications(Stealthwatch) applications to Ansible and creating ansible playbooks to automate the run books used by operate for production mangement activities.
+
+
+As a member of SRE Central development team, i have achieved the following goals
+1. Developed, tested application components
+2. Defined Branch & Release strategy to streamline build & release process
+3. Implemented CI & CD using EPL library and also worked with EPL support team to onboard to various tools required to setup the CI/CD pipelines
+
+I worked with Operate and Engineering to complete SRE maturity assesment of Traiage Toolbox application.
+
+I am Working with Vsphere team to extract and query the historical vsphere alerts data to calculate the avalability of the vshpere hosts
+
+
+Here's how i aligned with WellsFargo's transformation journey
+Sharing and asking feedback with colleagues.
+Taken ownership of the problems.
+Participated in tech sessions & learning programs to understand WellsFargo's policies and goals.
+Collobrating with colleagues and stake holders to share ideas.
